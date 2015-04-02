@@ -1,0 +1,13 @@
+{
+  "author": "ahaitoute",
+    "dependencies": [
+    { "name": "puppetlabs/stdlib", "version_requirement": ">= 4.1.0" },
+    { "name": "puppetlabs/concat", "version_requirement": ">= 1.0.4" },
+  ],
+  "license": "GPLv3",
+  "name": "puppet-vyatta",
+  "project_page": "http://github.com/larkit-ian/puppet-vyatta",
+  "source": "ahaitoute",
+  "summary": "Generates and installs Vyatta configuration",
+  "version": "0.0.1"
+}
